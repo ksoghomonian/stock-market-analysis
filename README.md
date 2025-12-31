@@ -19,3 +19,4 @@ This project retrieves historical stock price data for Apple Inc. (AAPL) using t
 The analysis calculated daily returns and 20 and 50-day moving averages to identify trends and assess short and long-term stock performance. Annualized volatility measured overall risk, and visualizations clearly highlighted price movements and patterns over time. 
 
 ## Visualization
+![Stock Price and Moving Averages](stock_price_plot.png)
