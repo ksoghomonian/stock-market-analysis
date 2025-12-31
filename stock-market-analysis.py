@@ -44,3 +44,5 @@ plt.xlabel("Date")
 plt.ylabel("Price (USD)")
 plt.legend()
 plt.show()
+plt.savefig("stock_price_plot.png", bbox_inches='tight')
+
